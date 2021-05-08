@@ -1,4 +1,4 @@
 ### ......👋
 - Coding
 - Pentest
-- Oher
+- Other
